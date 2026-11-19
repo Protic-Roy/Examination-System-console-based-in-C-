@@ -1,0 +1,24 @@
+ExamID: MIDTERM101
+Title: C Programming Midterm
+Duration: 10 minutes
+TotalQuestions: 5
+TotalMarks: 30
+---
+ExamID: QUIZ001
+Title: General Knowledge Quiz
+Duration: 5 minutes
+TotalQuestions: 4
+TotalMarks: 20
+---
+ExamID: MAT-101
+Title: mathmatics
+Duration: 40 minutes
+TotalQuestions: 5
+TotalMarks: 10
+---
+ExamID: PHY 101
+Title: Physics
+Duration: 20 minutes
+TotalQuestions: 5
+TotalMarks: 10
+---

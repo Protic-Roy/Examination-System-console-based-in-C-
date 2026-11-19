@@ -1,0 +1,56 @@
+StudentID: 1001
+Name: Arafat Hossain
+ExamID: MIDTERM101
+Score: 4/5
+Marks: 26/30
+Percentage: 86.67%
+---
+StudentID: 1002
+Name: Sumaiya Akter
+ExamID: QUIZ001
+Score: 4/4
+Marks: 20/20
+Percentage: 100.00%
+---
+StudentID: 1003
+Name: Tauhidul Islam
+ExamID: MIDTERM101
+Score: 3/5
+Marks: 19/30
+Percentage: 63.33%
+---
+StudentID: 1005
+Name: Riad Ahmed Khan
+ExamID: MIDTERM101
+Score: 5/5
+Marks: 30/30
+Percentage: 100.00%
+---
+StudentID: 1009
+Name: Nishat Tasnim Nodi
+ExamID: QUIZ001
+Score: 3/4
+Marks: 15/20
+Percentage: 75.00%
+---
+StudentID: 1012
+Name: Md. Rakibul Hasan
+ExamID: MAT-101
+Score: 4/5
+Marks: 8/10
+Percentage: 80.00%
+---
+StudentID: 1001
+Name: Arafat Hossain
+ExamID: QUIZ001
+Score: 4/4
+Marks: 20/20
+Percentage: 100.00%
+---
+StudentID: 1015
+Name: Maria Gomes
+ExamID: PHY 101
+Score: 3/5
+Marks: 7/10
+Percentage: 70.00%
+---

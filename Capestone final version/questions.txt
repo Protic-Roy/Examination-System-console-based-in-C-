@@ -1,0 +1,83 @@
+ExamID: MIDTERM101
+Q.ID: 1
+Type: M
+Marks: 5
+Question: What is the size of int in C on 32-bit systems?
+A: 2 bytes
+B: 4 bytes
+C: 8 bytes
+D: 1 byte
+CorrectOption: B
+---
+ExamID: MIDTERM101
+Q.ID: 2
+Type: M
+Marks: 4
+Question: Which keyword is used to prevent a variable from being modified?
+A: final
+B: static
+C: const
+D: volatile
+CorrectOption: C
+---
+ExamID: MIDTERM101
+Q.ID: 3
+Type: S
+Marks: 10
+Question: What is the full form of CPU?
+CorrectAnswer: Central Processing Unit
+---
+ExamID: MIDTERM101
+Q.ID: 4
+Type: M
+Marks: 6
+Question: Which of the following is NOT a valid loop in C?
+A: for
+B: while
+C: do-while
+D: repeat-until
+CorrectOption: D
+---
+ExamID: MIDTERM101
+Q.ID: 5
+Type: S
+Marks: 5
+Question: Name the brain of the computer.
+CorrectAnswer: CPU
+---
+ExamID: QUIZ001
+Q.ID: 1
+Type: M
+Marks: 3
+Question: What does HTML stand for?
+A: Hyper Text Markup Language
+B: High Tech Modern Language
+C: Home Tool Markup Language
+D: Hyperlink Text Markup Language
+CorrectOption: A
+---
+ExamID: QUIZ001
+Q.ID: 2
+Type: M
+Marks: 4
+Question: Which one is an input device?
+A: Monitor
+B: Printer
+C: Keyboard
+D: Speaker
+CorrectOption: C
+---
+ExamID: QUIZ001
+Q.ID: 3
+Type: S
+Marks: 5
+Question: What is the capital of India?
+CorrectAnswer: New Delhi
+---
+ExamID: QUIZ001
+Q.ID: 4
+Type: S
+Marks: 8
+Question: What is the chemical symbol for water?
+CorrectAnswer: H2O
+---
